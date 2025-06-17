@@ -1,6 +1,3 @@
-# Chatbot-FMJ
-Chatbot via WhatsApp para reduzir o absenteísmo em exames de colonoscopia, desenvolvido em parceria entre a FMJ e a FATEC Jundiaí. Integração com Google Sheets, envio de lembretes, gestão de TCLE e coleta de feedback.
-
 # 📱 Chatbot FMJ/FATEC – Redução do Absenteísmo em Colonoscopia
 
 Este projeto é uma solução de chatbot via WhatsApp, desenvolvida para a **Faculdade de Medicina de Jundiaí (FMJ)** em parceria com a **FATEC Jundiaí**, com o objetivo de **reduzir o absenteísmo de pacientes nos exames de colonoscopia**, no contexto do SUS.
