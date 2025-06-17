@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  whatsapp-bot:
+    container_name: whatsapp-bot
+    build: .
+    restart: always
+    environment:
+      - NODE_ENV=production
+    volumes:
+      - ./auth_data:/app/auth_data
+    ports:
+      - "3000:3000"
