@@ -82,6 +82,13 @@ node bot.js
 ```
 docker-compose up --build
 ```
+---
+
+## 🗺️ Fluxo do Chatbot
+
+![Fluxograma do Chatbot](https://raw.githubusercontent.com/arielreises/Chatbot-FMJ/main/Fluxograma.png)
+
+---
 
 ## 👥 Equipe de Desenvolvimento
 - **Ariel Reises:**
