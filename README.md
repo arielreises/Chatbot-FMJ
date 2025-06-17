@@ -58,11 +58,11 @@ cd Chatbot-FMJ
 npm install
 ```
 
-3. **Configure as credenciais do Google:
+3. **Configure as credenciais do Google:**
 
 - Crie um arquivo chamado `credentials.json` na raiz do projeto com suas credenciais da Google Service Account.
 
-4. **Configure as variáveis de ambiente (se necessário):
+4. **Configure as variáveis de ambiente (se necessário):**
 
 Exemplo de `.env`:
 
@@ -71,13 +71,13 @@ NODE_ENV=production
 LOG_LEVEL=INFO
 ```
 
-5. **Inicie o chatbot:
+5. **Inicie o chatbot:**
 
 ```
 node bot.js
 ```
 
-6. **(Opcional) Executar com Docker:
+6. **(Opcional) Executar com Docker:**
 
 ```
 docker-compose up --build
