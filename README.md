@@ -83,13 +83,14 @@ node bot.js
 docker-compose up --build
 ```
 
-**👥 Equipe de Desenvolvimento**
+## 👥 Equipe de Desenvolvimento
 - **Ariel Reises:**
 Gestão do projeto (Scrum Master), QA, implantação, infraestrutura e validação junto aos stakeholders.
 
 - **Breno de Oliveira Brocanello:**
 Programação backend, desenvolvimento do chatbot, integração com Google Sheets e controle de fluxos.
+---
 
-**📝 Observações Finais**
+## 📝 Observações Finais
 Este projeto está vinculado ao estudo acadêmico aprovado pelo Comitê de Ética em Pesquisa da FMJ
 (CAAE: 84179924.7.0000.5412 - Parecer: 7.586.604).
