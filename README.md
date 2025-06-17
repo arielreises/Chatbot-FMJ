@@ -48,7 +48,7 @@ Automatizar a comunicação com pacientes agendados para exame de colonoscopia, 
 1. **Clone o repositório:**
 
 ```
-git clone https://github.com/arielreiseso/Chatbot-FMJ.git
+git clone https://github.com/arielreises/Chatbot-FMJ.git
 cd Chatbot-FMJ
 ```
 
